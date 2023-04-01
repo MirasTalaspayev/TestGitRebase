@@ -6,6 +6,6 @@ namespace TestGitRebase
 {
     public class Animal
     {
-
+        public int MyProperty { get; set; }
     }
 }
